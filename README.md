@@ -5,8 +5,8 @@ With just a few taps, users can generate personalized startup ideas, detailed bu
 
 ---
 
-## Server Github Link
-[https://github.com/TeraSeo/LaunchMateServer](https://github.com/TeraSeo/LaunchMateServer)
+## Frontend Github Link
+[https://github.com/TeraSeo/LaunchMateClient](https://github.com/TeraSeo/LaunchMateClient)
 
 ## 🔗 Live Site  
 [https://launch-mate-client.vercel.app](https://launch-mate-client.vercel.app)
